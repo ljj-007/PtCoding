@@ -9,6 +9,12 @@ Meanwhile, this is a canonical deep learning code framework for Pytorch.
 
 version 1.0.
 
+## Requirements
+
+python >= 3.7
+
+pytorch == 1.13.1+cu117 (An option. There is no special requirements for pytorch or other packages)
+
 ## Folder Tree
 
 ```shell
